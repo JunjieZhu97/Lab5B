@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LoginSystem(Lab 5,PartB)</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_register">Register</string>
+    <string name="tv_registerinfo">If You Don\'t Have an Account Yet,</string>
+    <string name="tiet_username">Enter Your UserName</string>
+    <string name="tiet_password">Enter Your Password</string>
+    <string name="tiet_cpassword">Confirm Your Password</string>
+    <string name="tiet_post">What\'s On Your Mind ?</string>
+    <string name="btn_post">Post</string>
+    <string name="tiet_updatestatus" > Update Your Post</string>
+    <string name="btn_update">Update</string>
+</resources>
